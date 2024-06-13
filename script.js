@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: " A inteligência artificial é uma área da ciência da computação que se concentra no desenvolvimento de sistemas e algoritmos capazes de realizar tarefas que normalmente exigiriam a inteligência humana.?",
+        enunciado: " A inteligência artificial é uma área da ciência da computação que se concentra no desenvolvimento de sistemas e algoritmos capazes de realizar tarefas que normalmente exigiriam a inteligência humana.",
         alternativas: [
             {
                 texto: "Isso é assustador!",
